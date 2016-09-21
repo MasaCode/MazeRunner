@@ -1,5 +1,6 @@
 # MazeRunner
 ## 3D game created with DirectX 12 and C++.
+## It's stll work in progress.
 
 ### Description
 You are trapped in a maze and you need to escape!
