@@ -1,12 +1,12 @@
 # MazeRunner
-## 3D game created with DirectX 12 and C++.
-## It's stll work in progress.
+### 3D game created with DirectX 12 and C++.
+#### It's stll work in progress.
 
-### Description
+#### Description
 You are trapped in a maze and you need to escape!
 
 
-### To play this game,
+#### To play this game,
 * Press 'W' key to move forward.
 * Press 'S' key to move backward.
 * Press 'A' key to move left.
